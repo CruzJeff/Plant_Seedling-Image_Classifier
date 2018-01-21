@@ -1,0 +1,2 @@
+Number,Date,Model,Score(MeanFScore),Notes
+1,1/21/2018,Keras-CNN,0.75188,"Architecture: 32-32-64-64-12, dropout 0.5, (Relu -> Softmax), epochs = 20, batch size = 32)"
