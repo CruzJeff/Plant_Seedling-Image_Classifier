@@ -15,7 +15,6 @@ from os import listdir
 from keras.preprocessing import image
 import tensorflow as tf
 from sklearn.utils import shuffle
-from keras.applications import xception
 from sklearn.preprocessing import LabelBinarizer
 
 #Path to data
