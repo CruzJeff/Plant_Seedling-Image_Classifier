@@ -1,4 +1,4 @@
 Number,Date,Model,Score(MeanFScore),Notes,Rank
 1,1/21/2018,Keras-CNN,0.75188,"Architecture: 32-32-64-64-12, dropout 0.5, (Relu -> Softmax), epochs = 20, batch size = 32)",339/408
 2,1/21/2018,Keras-CNN,0.82871,"Same as 1, trained for 50 epochs",310/408
-3,1/22/2018,Keras-CNN,0.82871,"Same as 1, trained for 75 epochs",309/408
+3,1/22/2018,Keras-CNN,0.82997,"Same as 1, trained for 75 epochs",309/408
