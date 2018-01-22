@@ -104,7 +104,7 @@ model.compile(loss='categorical_crossentropy',
 
 
 model.fit(X_train, y_train, 
-          validation_data=(X_val, y_val), epochs=50, batch_size=32, verbose=True)
+          validation_data=(X_val, y_val), epochs=75, batch_size=32, verbose=True)
     
 #Make Predictions
 X_test = np.array(X_test)
